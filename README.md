@@ -95,7 +95,10 @@ Summary Dashboard – Consolidated KPIs and insights
 
 -> Enhances decision-making efficiency
 
-P-> rovides transparency into banking operations
+-> rovides transparency into banking operations
+
+## Dashboard preview
+(https://github.com/ankitrrrr/Risk-Analysis-In-Banking/blob/main/Home%20page.png)
 
 ## Author
 
