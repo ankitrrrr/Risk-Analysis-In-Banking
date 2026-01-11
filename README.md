@@ -97,8 +97,13 @@ Summary Dashboard – Consolidated KPIs and insights
 
 -> rovides transparency into banking operations
 
-## Dashboard preview
+# Dashboard preview
+
+## Home page preview
 (https://github.com/ankitrrrr/Risk-Analysis-In-Banking/blob/main/Home%20page.png)
+
+## Loan Analysis page preview
+(https://github.com/ankitrrrr/Risk-Analysis-In-Banking/blob/main/Loan%20Analysis%20ss.png)
 
 ## Author
 
